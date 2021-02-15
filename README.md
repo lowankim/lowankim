@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Lowan, Bioinformatics App Developer @LJI
+- 👋  Hi, I’m Lowan, Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 👀  I’m interested in Python programming, Bioinformatics, AI/ML, and many more.
 - 🌱  I’m currently learning Python web development with Django and Angular.
 - 📫  Reach me at khaeuk@gmail.com
