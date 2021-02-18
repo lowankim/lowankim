@@ -1,6 +1,10 @@
-- 👋  Hi, I’m Lowan, Bioinformatics App Developer @[LJI](https://www.lji.org/)
+<h3>🤙🏼  Hi, I’m Lowan</h3>
+
+![](https://komarev.com/ghpvc/?username=khaeuk)
+
+- 🧑🏻‍💻  I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 👀  I’m interested in Python programming, Bioinformatics, AI/ML, and many more.
-- 🌱  I’m currently learning Python web development with Django and Angular.
+- ✏️  I’m currently learning Python web development with Django and Angular.
 - 📫  Reach me at khaeuk@gmail.com
 
 <!---
