@@ -1,6 +1,7 @@
-<h3>🤙🏼  Hi, I’m Lowan❕</h3>
+<h3>🤙🏼  Hi, I am Lowan❕</h3>
 
-![](https://komarev.com/ghpvc/?username=khaeuk)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/)
+![](https://komarev.com/ghpvc/?username=haeukkim)
 
 - 🧑🏻‍💻  I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 👀  I’m interested in Python programming, Bioinformatics, AI/ML, and many more.
