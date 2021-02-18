@@ -1,4 +1,4 @@
-<h3>Hi, I am Lowan <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px"></h3>
+<h3><img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I am Lowan </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/)
 ![](https://komarev.com/ghpvc/?username=haeukkim)
