@@ -5,19 +5,15 @@
 </div>
 
 <p float="center" align="middle">
-  <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>
-  <br>
-  
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
-
+  <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>  
 </p>
 
+<h3>🧑🏻‍💻 About me</h3> 
 
-
----
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
 - 📍 San Diego-based developer whose an avid learner at heart.
-- 🧑🏻‍💻  I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
+- I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 👀  I’m interested in Python programming, Bioinformatics, AI/ML, and many more.
 - ✏️  I’m currently learning Python web development with Django and Angular.
 - 📫  Reach me at khaeuk@gmail.com
@@ -50,6 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeuk&count_private=true&theme=dracula" width="40%">
 
 </p>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
+
 
 <!---
 khaeuk/khaeuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
