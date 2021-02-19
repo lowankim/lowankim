@@ -12,6 +12,17 @@
 - ✏️  I’m currently learning Python web development with Django and Angular.
 - 📫  Reach me at khaeuk@gmail.com
 
+---
+
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=khaeuk&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeuk&count_private=true&theme=dracula">
+
+</p>
+
 <!---
 khaeuk/khaeuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
