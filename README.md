@@ -3,14 +3,16 @@
     <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I'm Lowan 
   </h2>
 </div>
-
+<p algn="center">
+  <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>
+</p>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/)
 ![](https://komarev.com/ghpvc/?username=haeukkim)
 
-📍 San Diego-based developer whose an avid learner at heart. I try to remind myself to never lose curiosity because there's so much more to life if you stay curious.
 
 ---
 
+- 📍 San Diego-based developer whose an avid learner at heart.
 - 🧑🏻‍💻  I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 👀  I’m interested in Python programming, Bioinformatics, AI/ML, and many more.
 - ✏️  I’m currently learning Python web development with Django and Angular.
