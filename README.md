@@ -4,12 +4,14 @@
   </h2>
 </div>
 
-<p algn="center">
+<p float="center" align="middle">
   <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>
+  <br>
+  
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
+
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/)
-![](https://komarev.com/ghpvc/?username=haeukkim)
 
 
 ---
