@@ -4,8 +4,6 @@
   </h2>
 </div>
 
----
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/)
 ![](https://komarev.com/ghpvc/?username=haeukkim)
 
