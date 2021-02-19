@@ -14,7 +14,7 @@
 
 - 🧑🏻‍💻 I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 🎓 Bachelor of Computer Science specialization in Bioinformatics
-- 🎮 My hobbies are singing, running, golf, weight lifting, tennis, and swimming
+- 🎮 My hobbies include singing, running, golf, weight lifting, tennis, and swimming
 - 📍 Currently based in San Diego.
 - 📫 Reach me at khaeuk@gmail.com
 
