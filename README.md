@@ -16,10 +16,10 @@
 
 **Github Stats:**
 
-<p align="center">
+<p float="center" align="middle" width="100%">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=khaeuk&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeuk&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaeuk&hide=stars&show_icons=true&theme=dracula&line_height=32" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeuk&count_private=true&theme=dracula" width="40%">
 
 </p>
 
