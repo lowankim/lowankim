@@ -3,9 +3,11 @@
     <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I'm Lowan 
   </h2>
 </div>
+
 <p algn="center">
   <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>
 </p>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/)
 ![](https://komarev.com/ghpvc/?username=haeukkim)
 
