@@ -8,7 +8,7 @@
   <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>  
 </p>
 
-<h4>🙋🏻‍♂️ About Me</h4> 
+<h3>🙋🏻‍♂️ About Me</h3> 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
@@ -20,7 +20,7 @@
 
 ---
 
-<h4>🛠 Tech Stack</h4>
+<h3>🛠 Tech Stack</h3>
 
 **Frontend**<br>
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&logo=html5&logoColor=E34F26)
@@ -42,12 +42,12 @@
 
 ---
 
-<h4>📚 I'm Currently Learning...</h4>
+<h3>📚 I'm Currently Learning...</h3>
 
 
 ---
 
-<h4>✨ Github Stats:</h4>
+<h3>✨ Github Stats:</h3>
 
 <p float="center" align="middle" width="100%">
   
