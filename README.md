@@ -8,15 +8,15 @@
   <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>  
 </p>
 
-<h3>🧑🏻‍💻 About me</h3> 
+<h3>🙋🏻‍♂️ About Me</h3> 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
-- 📍 San Diego-based developer whose an avid learner at heart.
-- I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
-- 👀  I’m interested in Python programming, Bioinformatics, AI/ML, and many more.
-- ✏️  I’m currently learning Python web development with Django and Angular.
-- 📫  Reach me at khaeuk@gmail.com
+- 🧑🏻‍💻 I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
+- 🎓 Bachelor of Computer Science specialization in Bioinformatics
+- 🎮 My hobbies are singing, running, golf, weight lifting, tennis, and swimming
+- 📍 Currently based in San Diego.
+- 📫 Reach me at khaeuk@gmail.com
 
 ---
 
@@ -46,8 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaeuk&count_private=true&theme=dracula" width="40%">
 
 </p>
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
 
 <!---
