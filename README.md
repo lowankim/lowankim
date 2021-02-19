@@ -1,9 +1,10 @@
 <div align="center">
-  <h3>
+  <h2>
     <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/wave.gif" width="30px">  Hi, I'm Lowan 
-  </h3>
+  </h2>
 </div>
 
+---
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/)
 ![](https://komarev.com/ghpvc/?username=haeukkim)
@@ -19,15 +20,21 @@
 
 ---
 
-<h4>to🛠 Tech Stack</h4>
+<h4>🛠 Tech Stack</h4>
 
+**Frontend**<br>
 
+**Backend**<br>
+
+**OS & IDE Tools**<br>
+
+**Others**<br>
+![Python](http://img.shields.io/badge/-Python-eee?style=flat&logo=python&logoColor#F7BD2F)
 
 ---
 
 <h4>📚 I'm Currently Learning...</h4>
 
-![Python](http://img.shields.io/badge/-Python-eee?style=flat&logo=python&logoColor#F7BD2F)
 
 ---
 
