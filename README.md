@@ -7,7 +7,7 @@
 <p float="center" align="middle">
   <i>"Never lose curiosity because curiosity is one of the great secrets of happiness."</i>  
 </p>
-
+<br>
 <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" width="300px" align="right">
 
 <h3>🙋🏻‍♂️ About Me</h3> 
