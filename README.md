@@ -24,6 +24,8 @@
 
 **Frontend**<br>
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat&logo=css3&logoColor=1d9cd5)
+![JS](http://img.shields.io/badge/-Javascript-eee?style=flat&logo=javascript&logoColor=e2c430)
 ![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat&logo=angular&logoColor=DD0031)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat&logo=bootstrap&logoColor=563D7C)
 
@@ -38,11 +40,15 @@
 
 **OS & IDE Tools**<br>
 ![Linux](http://img.shields.io/badge/-Linux-eee?style=flat&logo=linux&logoColor=D67A10)
-![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![MacOS](http://img.shields.io/badge/-MacOS-eee?style=flat&logo=macos&logoColor=4c4c4c)
+![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat&logo=visual-studio-code&logoColor=1784ec)
+![Xcode](http://img.shields.io/badge/-Xcode-eee?style=flat&logo=xcode&logoColor=007ACC)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat&logo=gnu-bash&logoColor=663399)
 ![Git](http://img.shields.io/badge/-Git-eee?style=flat&logo=git&logoColor=F05032)
 
 **Others**<br>
+![Swift](http://img.shields.io/badge/-Swift-eee?style=flat&logo=swift&logoColor=f43725)
+![Keras](http://img.shields.io/badge/-Keras-eee?style=flat&logo=keras&logoColor=d00000)
 
 
 ---
