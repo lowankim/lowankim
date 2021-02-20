@@ -5,7 +5,7 @@
 </div>
 
 <p float="center" align="middle">
-  <i>"Never lose curiosity because there's so much more to life if you stay curious."</i>  
+  <i>"Never lose curiosity because curiosity is one of the great secrets of happiness."</i>  
 </p>
 
 <h3>🙋🏻‍♂️ About Me</h3> 
