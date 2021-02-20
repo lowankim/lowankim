@@ -29,16 +29,21 @@
 
 **Backend**<br>
 ![Python](http://img.shields.io/badge/-Python-eee?style=flat&logo=python&logoColor#F7BD2F)
+![Django](https://img.shields.io/badge/-Django-eee?style=flat&logo=django&logoColor=0f3c2c)
 ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat&logo=docker&logoColor=2496ed)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat&logo=postgresql&logoColor=0273B7)
+![SQLite](https://img.shields.io/badge/-SQLite-eee?style=flat&logo=sqlite&logoColor=157bc8)
+![Nginx](https://img.shields.io/badge/-Nginx-eee?style=flat&logo=nginx&logoColor=199137)
+
 
 **OS & IDE Tools**<br>
-[![Linux](http://img.shields.io/badge/-Linux-eee?style=flat&logo=linux&logoColor=D67A10)](https://dinhanhthi.com/tags#linux)
-[![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
-[![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat&logo=gnu-bash&logoColor=663399)](https://dinhanhthi.com/tags#bash)
-[![Git](http://img.shields.io/badge/-Git-eee?style=flat&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
+![Linux](http://img.shields.io/badge/-Linux-eee?style=flat&logo=linux&logoColor=D67A10)
+![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat&logo=gnu-bash&logoColor=663399)
+![Git](http://img.shields.io/badge/-Git-eee?style=flat&logo=git&logoColor=F05032)
 
 **Others**<br>
+
 
 ---
 
