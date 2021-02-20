@@ -12,11 +12,16 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
+<p>
 - 🧑🏻‍💻 I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 🎓 Bachelor of Computer Science specialization in Bioinformatics
 - 🎮 My hobbies include singing, running, golf, weight lifting, tennis, and swimming
 - 📍 Currently based in San Diego.
 - 📫 Reach me at khaeuk@gmail.com
+</p>
+
+<p>
+</p>
 
 ---
 
