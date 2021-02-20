@@ -70,7 +70,9 @@ These are some of the tools that I've used for my projects and work.
 ---
 
 <h3>📚 I'm Currently Learning...</h3>
-- [ ] Bioinformatics
+
+- [ ] Bioinformatics 1 for UCSD Coursera certificate.
+- [ ] Angular Framework for front-end development.
 
 ---
 
