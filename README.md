@@ -12,22 +12,19 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
-<span display="inline-block">
-  <p float="left">
 
-  - 🧑🏻‍💻 I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
-  - 🎓 Bachelor of Computer Science specialization in Bioinformatics
-  - 🎮 My hobbies include singing, running, golf, weight lifting, tennis, and swimming
-  - 📍 Currently based in San Diego.
-  - 📫 Reach me at khaeuk@gmail.com
+<img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" width="300px" aligth="right">
 
-  </p>
+- 🧑🏻‍💻 I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
+- 🎓 Bachelor of Computer Science specialization in Bioinformatics
+- 🎮 My hobbies include singing, running, golf, weight lifting, tennis, and swimming
+- 📍 Currently based in San Diego.
+- 📫 Reach me at khaeuk@gmail.com 
 
-  <p float="right">
-      <img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" width="300px">
-  </p>
-</span>
 
+
+
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ---
 
