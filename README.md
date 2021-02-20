@@ -28,6 +28,7 @@
 ---
 
 <h3>🛠 Tech Stack</h3>
+ These are some of the tools that I've used for my projects and work.<br>
 
 | **Frontend** | **Backend** | **OS & IDE Tools** | **Others** |
 |:-:|:-:|:-:|:-:|
