@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
 
-<img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" width="300px" aligth="right">
+<img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" width="300px" align="right">
 
 - 🧑🏻‍💻 I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
 - 🎓 Bachelor of Computer Science specialization in Bioinformatics
