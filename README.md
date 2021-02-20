@@ -8,9 +8,9 @@
   <i>"Never lose curiosity because curiosity is one of the great secrets of happiness."</i>  
 </p>
 
-<img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" width="300px" align="right">
 <br>
 <h3>🙋🏻‍♂️ About Me</h3> 
+<img src="https://raw.githubusercontent.com/khaeuk/khaeuk/master/assets/developer.gif" width="300px" align="right">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
