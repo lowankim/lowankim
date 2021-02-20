@@ -29,6 +29,17 @@
 
 <h3>🛠 Tech Stack</h3>
 
+| **Frontend** | **Backend** | **OS & IDE Tools** | **Others** |
+|---|---|---|---|
+| <span float="center"> ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&logo=html5&logoColor=E34F26) ![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat&logo=css3&logoColor=1d9cd5) ![JS](http://img.shields.io/badge/-Javascript-eee?style=flat&logo=javascript&logoColor=e2c430) ![Angular](https://img.shields.io/badge/-Angular-EEE?style=flat&logo=angular&logoColor=DD0031) ![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat&logo=bootstrap&logoColor=563D7C)
+</span>
+| <span float="center"> &nbsp ![Python](http://img.shields.io/badge/-Python-eee?style=flat&logo=python&logoColor#F7BD2F) ![Django](https://img.shields.io/badge/-Django-eee?style=flat&logo=django&logoColor=0f3c2c) ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat&logo=docker&logoColor=2496ed) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat&logo=postgresql&logoColor=0273B7) ![SQLite](https://img.shields.io/badge/-SQLite-eee?style=flat&logo=sqlite&logoColor=157bc8) ![Nginx](https://img.shields.io/badge/-Nginx-eee?style=flat&logo=nginx&logoColor=199137)
+</span>
+|   |   |
+
+
+
+
 **Frontend**<br>
 ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat&logo=css3&logoColor=1d9cd5)
