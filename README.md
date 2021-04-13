@@ -14,7 +14,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haeukkim/)](https://www.linkedin.com/in/haeukkim/) ![](https://komarev.com/ghpvc/?username=haeukkim)
 
-- 🧑🏻‍💻 I'm a Bioinformatics App Developer @[LJI](https://www.lji.org/)
+- 🧑🏻‍💻 I'm a Software Developer, Bioinformatics @[LJI](https://www.lji.org/)
 - 🎓 Bachelor of Computer Science specialization in Bioinformatics
 - 🎮 My hobbies include singing, running, and weight lifting.
 - 📍 Currently based in San Diego.
@@ -71,8 +71,9 @@ These are some of the tools that I've used for my projects and work.
 
 <h3>📚 I'm Currently Learning...</h3>
 
-- [ ] Bioinformatics 2 for UCSD Coursera certificate.
+<!--- [ ] Bioinformatics 2 for UCSD Coursera certificate.-->
 <!--- [ ] Angular Framework for front-end development.-->
+- [ ] iOS App Development
 - [ ] How to write better documentations.
 
 ---
