@@ -73,7 +73,8 @@ These are some of the tools that I've used for my projects and work.
 
 <!--- [ ] Bioinformatics 2 for UCSD Coursera certificate.-->
 <!--- [ ] Angular Framework for front-end development.-->
-- [ ] iOS App Development
+<!-- - [ ] iOS App Development -->
+- [ ] Deep Learning.
 - [ ] How to write better documentations.
 
 ---
