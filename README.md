@@ -5,7 +5,7 @@
 </div>
 
 <p float="center" align="middle">
-  <i>"Never lose curiosity because curiosity is one of the great secrets of happiness."</i>  
+  <i>"Never lose curiosity because curiosity is one of the great secrets of happiness."<br>- Bryant H. McGill -</i>  
 </p>
 
 <br>
